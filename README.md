@@ -22,4 +22,4 @@ I like working with the following technologies:
   <img src="https://img.shields.io/static/v1?label=&message=NodeJS&color=339933&logo=nodedotjs&logoColor=white&style=flat-square">
 </div>
 
-I'm currently working working on an agentic home automation speech-to-speech system for [living homes](https://www.living.homes/).
+I'm currently working on an agentic home automation speech-to-speech system for [living homes](https://www.living.homes/).
